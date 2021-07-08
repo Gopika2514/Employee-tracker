@@ -156,10 +156,7 @@ async function updateEmployeeRole() {
     // THIS OBJECT FOR EACH MANAGER WILL RETURN TO MAP() TO CONSTRUCT AN ARRAY TO BE RETURNED AND BE STORED TO managerChoices.
     // YOUR CODE HERE
     name: first_name + ' ' + last_name,
-    value:id 
-
-  
-
+    value:id, 
 
   }));
 
@@ -295,7 +292,7 @@ async function addEmployee() {
     // THIS OBJECT FOR EACH MANAGER WILL RETURN TO MAP() TO CONSTRUCT AN ARRAY TO BE RETURNED AND BE STORED TO managerChoices.
     // YOUR CODE HERE
     name: first_name + ' ' + last_name,
-    value:id     
+    value:id,     
 
   }));
   managerChoices.unshift({ name: "None", value: null });

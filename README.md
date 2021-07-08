@@ -3,6 +3,8 @@
 # Links
 Github: https://github.com/Gopika2514/Employee-tracker
 
+YouTube: https://youtu.be/LGNqbSZDgUg
+
 # How to use
 
 Run (npm i) in your terminal to download all the packages used. Then start the program using (npm start) or (node index.js)
